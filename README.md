@@ -30,9 +30,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/zUozlYr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Gif of the app](./src/assets/community-board.gif)
 
-## Notes`
+## Notes
 
 Initially, I had trouble with the layout of the cards, but I was able to use CSS Grid to organize them into a responsive format. I also had to spend some time finding appropriate resources and events to include in the app.
 
