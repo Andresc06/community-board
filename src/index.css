@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	min-width: 320px;
+	min-height: 100vh;
+	background: #ffffff;
+	color: #0f172a;
+	font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+a {
+	color: inherit;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
