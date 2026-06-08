@@ -10,9 +10,9 @@ body {
 	margin: 0;
 	min-width: 320px;
 	min-height: 100vh;
-	background: #ffffff;
-	color: #0f172a;
-	font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+	background: #0b1020;
+	color: #e5eef8;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 a {
